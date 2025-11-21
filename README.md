@@ -4,8 +4,8 @@
 Tôi là sinh viên ngành Công nghệ Thông tin tại **Trường Đại học Công nghệ Thông tin (UIT), ĐHQG-HCM**.
 
 Hiện tại, tôi đang tập trung vào hai lĩnh vực chính:
-* **Machine Learning (ML) & AI:** Nghiên cứu các mô hình học máy và ứng dụng vào phân tích dữ liệu.
 * **Cybersecurity:** Tìm hiểu về các lỗ hổng bảo mật, Pentesting và các biện pháp phòng thủ hệ thống.
+* **Machine Learning (ML) & AI:** Nghiên cứu các mô hình học máy và ứng dụng vào phân tích dữ liệu.
 
 ### 🛠️ Bộ công cụ & Công nghệ
 | Loại | Kỹ năng chính |
@@ -20,7 +20,6 @@ Hiện tại, tôi đang tập trung vào hai lĩnh vực chính:
 
 ### 🚀 Dự án nổi bật
 * **[entry-level-cybersecurity]** (Link đến repo của bạn): Một bộ sưu tập các ghi chú và bài tập thực hành về bảo mật.
-* **[Tên dự án ML/AI/C++]** (Ví dụ: Mô hình dự đoán, Ứng dụng nhỏ): Mô tả ngắn gọn về dự án.
 
 ---
 
