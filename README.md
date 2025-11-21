@@ -19,7 +19,7 @@ Hiện tại, tôi đang tập trung vào hai lĩnh vực chính:
 [![Thống kê GitHub của kqviet010](https://github-readme-stats.vercel.app/api?username=kqviet010&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/kqviet010)
 
 ### 🚀 Dự án nổi bật
-* **[entry-level-cybersecurity]** (Link đến repo của bạn): Một bộ sưu tập các ghi chú và bài tập thực hành về bảo mật.
+* **[entry-level-cybersecurity]**: Một bộ sưu tập các ghi chú và bài tập thực hành về bảo mật.
 
 ---
 
